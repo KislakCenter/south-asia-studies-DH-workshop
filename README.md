@@ -2,7 +2,7 @@
 
 This repository contains manuscript images for the South Asia Studies DH Workshop at Penn Libraries on October 10-11, 2024.
 
-|  Manuscript | Colenda link | OPenn link |
+|  Shelfmark | Colenda link | OPenn link |
 | ----------- | ------------ | ---------- |
 | Halper 357 | https://colenda.library.upenn.edu/catalog/81431-p3sb3xh4j | https://openn.library.upenn.edu/Data/0002/html/h357.html |
 | CAJS Rar Ms 146 | https://colenda.library.upenn.edu/catalog/81431-p3b56db30 | https://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms146.html |
