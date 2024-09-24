@@ -1,6 +1,6 @@
 # South Asia Studies DH Workshop
 
-This repository contains images the South Asia Studies DH Workshop at Penn Libraries on October 10-11, 2024.
+This repository contains manuscript images for the South Asia Studies DH Workshop at Penn Libraries on October 10-11, 2024.
 
 |  Manuscript | Colenda link | OPenn link |
 | ----------- | ------------ | ---------- |
